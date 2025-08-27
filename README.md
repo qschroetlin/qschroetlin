@@ -1,9 +1,9 @@
 # Hi 👋, I'm Quinn Schroetlin
 ## About Me
 
-- 🏦 I'm currently working for a state college in Nebraska teaching computer programming
+- 🏦 I'm currently a student at Wayne State College
 
-- 📚 I’m studing to complete my Python certifications
+- 📚 I’m studying Geography and Geospatial Technology
 
 - 🤔 I use daily .java, .cpp, .py, .sql
 
