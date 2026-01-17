@@ -6,12 +6,12 @@
 - Planned Major: Geography
 - Planned Minor: Geospatial Technology
 #### Current Courses
-- CSC150 Programming Fundamentals I
-- GEO370 Geography of Latin America
-- GEO430 Geographic Information Systems
-- GEO360 Geography of Russia
-- GEO300 Human Geography
-- HIS310 Renaissance and Reformation
+- CSC160 Programming Fundamentals II
+- GEO315 Economic Geography
+- GEO340 Geography of U.S./Canada
+- GEO425 Urban G.I.S.
+- GEO490 Geography/History of Nebraska
+- POS350 American Presidency
 
 ### 📫 How to Reach Me
 - **qschroetlin@gmail.com**
